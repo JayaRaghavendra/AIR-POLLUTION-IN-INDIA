@@ -4,7 +4,6 @@ A brief analysis of AIR POLLUTION IN INDIA
 ![](Ani02.jpg)
 
 
-#THE DATA
 
 The dataset contains the following features :
 
