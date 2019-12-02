@@ -1,11 +1,11 @@
 # AIR-POLLUTION-IN-INDIA
-A brief analysis of AIR POLLUTION IN INDIA 
+
 
 ![](Ani02.jpg)
 
 
 
-The dataset contains the following features :
+# The dataset contains the following features :
 
 stn_code : Station code. A code given to each station that made the measurements.
 
