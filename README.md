@@ -32,4 +32,4 @@ location_monitoring_station : It indicates the location of the monitoring area.
 
 pm2_5 : It represents the value of particulate matter measured.
 
-date : It represents the date of recording (It is cleaner version of 'sampling_date' feature)
+date : It represents the date of recording (repeated data in 'sampling_date' feature)
